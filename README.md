@@ -8,8 +8,8 @@
   \|__|   \/__/   \/__/   \/__/   \/__/          \|__|   \/__/          \/__/          \/__/   \/__/          
               
 ```
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-# 💫 About Me:
 <br>hello I'm Rizki I come from Aceh I like playing games listening to songs editing videos I'm someone who can be an introvert and can be very extroverted people see me as a cheerful person even though I'm a person who is afraid of everything afraid of making the wrong decision that's all from me
 
 
